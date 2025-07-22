@@ -1,1 +1,0 @@
-(()=>{"use strict";Office.onReady(function(){console.log("AI Email Assistant commands loaded")})})();
